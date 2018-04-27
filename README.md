@@ -3,14 +3,15 @@ create a godaddy A record through API
 
 This is just a simple python script for creating an A record through godaddy.com's API.  One needs to put the following in their .bashrc or other. 
 
----bash
+```bash
+
 export GODAD_key=goddaddy_key 
 export GODAD_secret=secret
 ##save file,exit
 ##so that your session re-reads your bash session
 source ~/.bashrc
 
----
+```
 
 
 then run source ~/.bashrc so that your session re-reads your bash session
