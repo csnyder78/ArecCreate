@@ -8,8 +8,6 @@ This is just a simple python script for creating an A record through godaddy.com
 export GODAD_key=goddaddy_key 
 export GODAD_secret=secret
 ##save file,exit
-##so that your session re-reads your bash session
-source ~/.bashrc
 
 ```
 
